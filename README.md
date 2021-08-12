@@ -3,8 +3,8 @@
  :deciduous_tree: Sou <b>Técnica em Meio Ambiente</b> e </b>Engenheira Florestal</b> formada pela ESALQ-USP. <br>
  :deciduous_tree: I am an <b>Environmental Technician</b> and a <b>Forest Engineer</b> graduated at ESALQ-USP. 
 
- :computer: Atualmente sou estudante de Desenvolvimento <b>Front-End</b> na <Laboratória> e <b>Back-End</b> na {reprograma}. <br>
- :computer: Nowadays I am a <b>Front-End</b> Developer Student in <Laboratória> and a <b>Back-End</b> Developer Student in {reprograma}. 
+ :computer: Atualmente sou estudante de Desenvolvimento <b>Front-End</b> na <Laboratória>. <br>
+ :computer: Nowadays I am a <b>Front-End</b> Developer Student in <Laboratória>. 
 
  :abacus: Além de ser apaixonada por programação, ou amadora de <b>métodos quantitativos</b> e dados no geral. <br>
  :abacus: Besides being passionate about programming I am a <b>quantative methods</b> and a data lover. 
