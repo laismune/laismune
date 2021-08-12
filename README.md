@@ -7,7 +7,7 @@
  :computer: Nowadays I am a <b>Front-End</b> Developer Student in <Laboratória> and a <b>Back-End</b> Developer Student in {reprograma}. 
 
  :abacus: Além de ser apaixonada por programação, ou amadora de <b>métodos quantitativos</b> e dados no geral. <br>
- :abacus: Besides being passionate about programming I am a <b>quantative methods</b> and data lover. 
+ :abacus: Besides being passionate about programming I am a <b>quantative methods</b> and a data lover. 
 
  :climbing_woman: Nas horas vagas gosto de estar sempre em movimento e em especial, escalando boulders. <br>
  :climbing_woman: In my free time I like to practice sports, especially climbing boulders.
