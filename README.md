@@ -20,7 +20,7 @@
   <a href = "mailto:lais.mune@alumni.usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:aymune@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5511989427817" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    
-    ![Snake animation](https://github.com/laismune/laismune/blob/output/github-contribution-grid-snake.svg)
   </div>
+ 
+ ![Snake animation](https://github.com/laismune/laismune/blob/output/github-contribution-grid-snake.svg)
   
