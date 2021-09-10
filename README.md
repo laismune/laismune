@@ -6,7 +6,7 @@
  :computer: Atualmente sou estudante de Desenvolvimento <b>Front-End</b> na <Laboratória>. <br>
  :computer: Nowadays I am a <b>Front-End</b> Developer Student at <Laboratória>. 
 
- :abacus: Além de ser apaixonada por programação, ou amadora de <b>métodos quantitativos</b> e dados no geral. <br>
+ :abacus: Além de ser apaixonada por programação, sou amadora de <b>métodos quantitativos</b> e dados no geral. <br>
  :abacus: Besides being passionate about programming I am a <b>quantative methods</b> and a data lover. 
 
  :climbing_woman: Nas horas vagas gosto de estar sempre em movimento e em especial, escalando boulders. <br>
